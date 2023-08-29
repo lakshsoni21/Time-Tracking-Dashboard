@@ -3,7 +3,7 @@ const gridContainer = document.querySelector('.grid');
 const gridItems = document.querySelectorAll(".grid .grid-item");
 
 function fetchData(eventId){
-    fetch('data.json')
+    fetch('/data.json')
     .then((response) => {
         return response.json();
     }).then((data) => {
