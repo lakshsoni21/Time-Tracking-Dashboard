@@ -40,6 +40,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- JavaScript
 
 ### What I learned
 - I Learned more about grid properly to create a respnsive website
