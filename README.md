@@ -5,11 +5,11 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
